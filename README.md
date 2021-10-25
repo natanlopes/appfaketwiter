@@ -23,7 +23,7 @@
 você vai precisar ter instalado em seu PC as seguintes ferramentas:
 - Visual studio code
 - RubyInstaller 3.0.2-1, 2.7.4-1 and 2.6.8-1 released
-- hrubygems
+- rubygems
 - MySQL
 
 
