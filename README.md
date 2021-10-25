@@ -1,6 +1,6 @@
 # README
 
-<h1 align="center">Credito Para Todos</h1>
+<h1 align="center">Fake Twitter</h1>
 
 
 ## Descrição do Projeto
@@ -42,7 +42,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ### Licença
-- [MIT](https://github.com/natanlopes/appfaketwiter)
+- [MIT](https://github.com/EdsonNeto2533/creditoParaTodos/blob/master/Licença)
 
 
 
