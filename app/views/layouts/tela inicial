@@ -1,6 +1,6 @@
 <%= nav_bar fixed: :top, brand: "Fashionable Clicheizr 2.0", responsive: true do %>
     <%= menu_group do %>
-        <%= menu_item "Home", root_path %>
+        <%= menu_item "Appfaketwiter", root_path %>
         <%= menu_divider %>
         <%= drop_down "Products" do %>
             <%= rails generate bootstrap:install less
